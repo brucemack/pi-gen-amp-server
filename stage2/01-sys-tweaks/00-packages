@@ -41,3 +41,5 @@ rpi-keyboard-fw-update
 rpi-usb-gadget modemmanager-
 rpi-connect-lite
 rpifwcrypto
+wget 
+libcurl4-gnutls-dev
